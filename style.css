@@ -113,6 +113,11 @@ ul {
   margin-right: 45px;
 }
 
+.HeaderNavListItem__button:hover {
+  opacity: .8;
+}
+
+
 .HeaderNavListItem__link>span:first-child {
   font-family: "Lato", sans-serif;
   font-size: 12px;
